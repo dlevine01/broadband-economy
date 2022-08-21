@@ -7,7 +7,7 @@ Access to broadband internet is vital for economic development, however no compr
 This project was developed by Dan Levine, Max Magid, Kaiwen Zhang, and Zuda Yan as for [US Ignite](https://www.us-ignite.org) as a capstone project for the M.S. in Applied Urban Science at the [NYU Center for Urban Science + Progress](https://cusp.nyu.edu)
 
 #### Read project details
-Read the full technical report or final presentation slides in the ‘Project Materials’ [folder](project materials)
+Read the full technical report or final presentation slides in the ‘Project Materials’ [folder](/project%20materials)
 
 #### Explore the data
 This project developed nationwide, Tract-level data on economic performance and broadband access. The data can be explored through an [interactive map](https://usignite.carto.com/u/usignite-intern/builder/a7627f0d-a64d-44a3-892a-820b14c0dfab/embed).
