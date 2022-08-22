@@ -1,4 +1,5 @@
 # Mapping connections between broadband expansion and equitable economic prosperity
+![map-tool-screenshot.png](Project%20Materials/map-tool-screenshot.png)
 ## About the project
 ###### Abstract 
 
