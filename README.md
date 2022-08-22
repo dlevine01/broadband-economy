@@ -16,11 +16,11 @@ This project developed nationwide, Tract-level data on economic performance and 
 
 This analysis is fully reproducible from the code included in this repo. 
 
-The data sources we used are all open or public online. The notebooks in `1_get raw data` will download the data from the sources. (A few sources _are_ available online, but are glitchy when accessed through the code, so those data are already included in the raw data folder.)
+The data sources we used are all open or public online. The notebooks in [1_get raw data](/1_get%20raw%20data) will download the data from the sources. (A few sources _are_ available online, but are glitchy when accessed through the code, so those data are already included in the raw data folder.)
 
-Notebooks in the `2_process data` folder clean, combine, and rescale the data.
+Notebooks in the [2_process data](2_process%20data) folder clean, combine, and rescale the data.
 
-Finally, notebooks in `3_analyze data` analyze economic and broadband performance, look at equity of broadband availability, and measure the correlation between broadband improvement and subsequent economic growth.
+Finally, notebooks in [3_analyze data](3_analyze%20data) analyze economic and broadband performance, look at equity of broadband availability, and measure the correlation between broadband improvement and subsequent economic growth.
 
-This entire repo can be cloned to run locally or each notebook can be run in Google Colab.
+This entire repo can be cloned to run locally or each notebook can be run in Google Colab. If you run the code yourself, run the notebooks in order as some the later stages depend on data processed at earlier stages. 
 
